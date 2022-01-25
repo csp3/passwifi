@@ -1,3 +1,7 @@
+<#
+uso:
+.\password-wifi.ps1 
+#>
 Clear-Host
 $pro = @()
 $c = 0
